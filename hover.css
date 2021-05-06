@@ -43,6 +43,15 @@ p {
     line-height: 25px;
 }
 
+strong {
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 25px;
+}
+
 blockquote {
     font-family: Nunito;
     font-size: 17px;
